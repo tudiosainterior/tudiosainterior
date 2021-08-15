@@ -15,12 +15,10 @@ about:
   title: "¡Bienvenida Diosa!"
   description: Seguramente, si has llegado hasta aquí es porque te encuentras transitando
     un camino de sanación, reconexión y descubrimiento de tu verdadero poder.
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  content: Sabemos que no siempre es un camino de rosas, y cuando se trata de sanar
+    y de romper con patrones del pasado, se puede volver duro y hasta doloroso. ¿Sabías
+    que las mujeres liberamos un 80% más de estrés cuando podemos compartir como nos
+    sentimos sin ser juzgadas?
   image: images/wrapper-img.png
 portfolio:
   enable: true
