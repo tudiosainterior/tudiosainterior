@@ -13,8 +13,8 @@ banner:
 about:
   enable: true
   title: "¡Bienvenida Diosa!"
-  description: Seguramente, si has llegado hasta aquí es porque te encuentras en un
-    camino de sanación, reconexión y descubrimiento de tu verdadero poder.
+  description: Seguramente, si has llegado hasta aquí es porque te encuentras transitando
+    un camino de sanación, reconexión y descubrimiento de tu verdadero poder.
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
