@@ -67,7 +67,7 @@ logo_width = "150px"
 [params.contact]
 address_descriptors = false
 email = "conectacontudiosainterior@gmail.com"
-location = "Bali Indonesia"
+location = "Bali, Indonesia"
 phone = "+34 697810608"
 [params.contact.form]
 action = "#"
