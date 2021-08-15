@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
-  bg_overlay: true
+  bg_image: images/photo5868343013892273932.jpg
+  bg_overlay: false
   title: Tu diosa interior
   content: We love the Web and the work we do.We work closely with our clients to
     deliver  the best possible solutions for their needs
