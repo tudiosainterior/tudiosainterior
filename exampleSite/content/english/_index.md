@@ -20,6 +20,11 @@ about:
     que las mujeres liberamos un 80% más de estrés cuando podemos compartir como nos
     sentimos sin ser juzgadas?
   image: images/wrapper-img.png
+  button:
+    enable: false
+  funfacts:
+  - name: Creemos en tí
+    count: Eres poderosa y lo sabes
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
