@@ -14,7 +14,7 @@ type: post
 ---
 To write out an [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) timestamp in the current language, you can use the `date_l10n` shortcode:
 
-Writing
+Writing 
 
     {{%/* date_l10n "2020-10-20" */%}}
 
@@ -28,8 +28,7 @@ For example, the following
 
     {{%/* date_l10n "2020-10-20" ":date_short" */%}}
 
-will result in
+will result in kjcnskcjlsñakcñlaskcñlasdxñQLDXa
 
     {{% date_l10n "2020-10-20" ":date_short" %}}
     
-    Hay que ser muy guapa
