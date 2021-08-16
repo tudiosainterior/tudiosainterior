@@ -5,15 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Homepage
+  label: Inicio
 - type: document
   path: exampleSite/content/english/_index.md
-  label: Homepage (en)
+  label: Inicio
 - type: document
   path: exampleSite/content/french/_index.md
   label: Homepage (fr)
 - type: heading
-  label: Blog Post
+  label: Blog
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
@@ -29,10 +29,10 @@ sections:
   templates:
   - post
 - type: heading
-  label: Author
+  label: Autora
 - type: directory
   path: exampleSite/content/english/author
-  label: Author (en)
+  label: Autora
   create: documents
   match: "**/*"
   templates:
@@ -45,10 +45,10 @@ sections:
   templates:
   - author
 - type: heading
-  label: Project
+  label: Círculo de Diosas
 - type: directory
   path: exampleSite/content/english/project
-  label: Project (en)
+  label: Círculo
   create: documents
   match: "**/*"
   templates:
