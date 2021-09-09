@@ -11,3 +11,5 @@ fields:
 - type: file
   name: bg_image
   label: bg_image
+pages:
+- exampleSite/content/french/prueba.md
